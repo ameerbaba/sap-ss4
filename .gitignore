@@ -1,0 +1,6 @@
+# Kiro spec files (not needed in SAP)
+.kiro/
+
+# OS files
+.DS_Store
+Thumbs.db
