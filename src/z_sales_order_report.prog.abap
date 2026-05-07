@@ -65,7 +65,7 @@ SELECTION-SCREEN END OF BLOCK b1.
 * Initialization
 *----------------------------------------------------------------------*
 INITIALIZATION.
-  TEXT-001 = 'Sales Order Selection Criteria'.
+*  TEXT-001 = 'Sales Order Selection Criteria'.
 
 *----------------------------------------------------------------------*
 * Start of Selection

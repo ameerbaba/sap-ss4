@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <abapGit version="v1.0.0" serializer="LCL_OBJECT_PROG" serializer_version="v1.0.0">
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
@@ -19,37 +19,37 @@
      <ID>S</ID>
      <KEY>S_VBELN</KEY>
      <ENTRY>        Sales Order Number</ENTRY>
-     <LENGTH>25</LENGTH>
+     <LENGTH>34</LENGTH>
     </item>
     <item>
      <ID>S</ID>
      <KEY>S_VKORG</KEY>
      <ENTRY>        Sales Organization</ENTRY>
-     <LENGTH>25</LENGTH>
+     <LENGTH>34</LENGTH>
     </item>
     <item>
      <ID>S</ID>
      <KEY>S_KUNNR</KEY>
      <ENTRY>        Customer Number</ENTRY>
-     <LENGTH>22</LENGTH>
+     <LENGTH>31</LENGTH>
     </item>
     <item>
      <ID>S</ID>
      <KEY>S_AUDAT</KEY>
      <ENTRY>        Document Date</ENTRY>
-     <LENGTH>19</LENGTH>
+     <LENGTH>29</LENGTH>
     </item>
     <item>
      <ID>S</ID>
      <KEY>S_MATNR</KEY>
      <ENTRY>        Material Number</ENTRY>
-     <LENGTH>22</LENGTH>
+     <LENGTH>31</LENGTH>
     </item>
     <item>
      <ID>S</ID>
      <KEY>P_MAXROW</KEY>
      <ENTRY>        Maximum Rows</ENTRY>
-     <LENGTH>18</LENGTH>
+     <LENGTH>28</LENGTH>
     </item>
     <item>
      <ID>I</ID>
